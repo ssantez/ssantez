@@ -4,7 +4,6 @@ C#,Powershell
 C++,C
 Python
 Java
-NodeJs
 
 telegram:santezbusinessacc
 discord:santezx
