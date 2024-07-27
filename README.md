@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/santezxrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santezxrd" height="30" width="40" /></a>
-<a href="https://discord.com/users/339975299296919553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="screy" height="30" width="40" /></a>
+<a href="https://discord.com/users/1245854298764611645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="screy" height="30" width="40" /></a>
 </p>
 
 [![Github Page](https://komarev.com/ghpvc/?username=ssantez&color=131313)](https://github.com/ssantez)
