@@ -1,9 +1,20 @@
-C#,Powershell
-C++
-Python
-Java
+<h1 align="center">🩸 Santez</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/santezxrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santezxrd" height="30" width="40" /></a>
+<a href="https://discord.com/users/339975299296919553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="screy" height="30" width="40" /></a>
+</p>
 
-Bölüm: Bilgisayar Mühendisliği / Yazılım Mühendisliği
-Mezuniyet Yılı: 2023
+[![Github Page](https://komarev.com/ghpvc/?username=ssantez&color=131313)](https://github.com/ssantez)
 
-Yazılım geliştirme alanında güçlü bir temel kazandım ve çeşitli projelerde yer aldım. Özellikle algoritmalar, veri yapıları, yazılım mühendisliği prensipleri ve web geliştirme konularında uzmanlaştım. Eğitim sürecim boyunca ekip çalışması, problem çözme ve analitik düşünme becerilerimi geliştirdim.
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="Python" height="40"/>
+</p>
+
+<h3 align="left">📈 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssantez&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
